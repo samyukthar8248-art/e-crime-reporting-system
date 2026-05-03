@@ -20,7 +20,8 @@ A web-based application developed to simplify crime complaint registration and t
 To reduce paperwork and improve transparency in crime reporting by providing an online platform.
 
 ## 📸 Screenshots
-(Add screenshots here)
+click the link 
+(https://github.com/samyukthar8248-art/e-crime-reporting-system/blob/main/SCREENSHORT1.pdf)
 
 ## ⚙️ How to Run
 1. Install XAMPP
